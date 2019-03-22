@@ -67,7 +67,10 @@ Robotics toolbox는 로봇팔에 관해서 시뮬레이션을 해볼 수 있는 
 
 
 # GUI
+<img src="image/gui.PNG" width="80%">
+푸쉬 버튼, 편집 텍스트, 정적 테스트, 패널, 좌표 축 추가해서 다음과 같이 구성합니다.
 
+# Code
 
 
 # Simulation
