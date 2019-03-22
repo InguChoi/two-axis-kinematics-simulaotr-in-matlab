@@ -1,5 +1,5 @@
 # Introduce
-안녕하세요 최인구입니다. 오늘은 매틀랩으로 로봇팔을 시뮬레이션하는 툴박스인 Robotics toolbox를 소개해드리겠습니다.
+안녕하세요. 오늘은 매틀랩으로 로봇팔을 시뮬레이션하는 툴박스인 Robotics toolbox를 소개해드리겠습니다.
 동시에 제일 간단한 2축 매니퓰레이터의 DH파라미터와 순기구학 역기구학 식을 구하여 식이 잘 풀렸는지 검증해보겠습니다.
 
 # What is Robotics toolbox
@@ -25,20 +25,36 @@ Robotics toolbox는 로봇팔에 관해서 시뮬레이션을 해볼 수 있는 
 이제 Robotics Toolbox를 사용할 수 있습니다.
 
 
-# DH-Parameter
+# 2 axis robot arm DH-Parameter
+
+<img src="https://www.denso-wave.com/imageupd/21004/14110_contents4.jpg" width="50%">
 오늘 시뮬레이션을 해볼 로봇은 2축 스카라 로봇 팔입니다.
-<img src="https://www.denso-wave.com/imageupd/21004/14110_contents4.jpg" width="80%">
+
+
+<사진 추가>
+이 로봇을 수학적으로 바라보기 위해서 좌표계를 도입하고 각 축의 각도와 링크를 문자로 나타내보겠습니다.
+
+<사진 추가>
+이 로봇의 DH-Parameter를 구해보겠습니다.
+
+참고로 DH-Parameter란 로봇 팔을 하나의 표로 나타낼 수 있는 것을 말합니다.
+
+### DH Parameters (Denavit-Hartenberg)
+
+1) z축 기준으로 d만큼 이동
+2) z축 기준으로 theta만큼 회전
+3) x축 기준으로 a만큼 이동
+4) x축을 기준으로 alpha만큼 회전
 
 
 
+# Forward Kinematics
 
+# Inverse Kinematics
 
+# GUI
 
-# 
-
-# 
-
-# 
+# Simulation
 
 
 
