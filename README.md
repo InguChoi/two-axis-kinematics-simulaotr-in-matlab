@@ -31,10 +31,10 @@ Robotics toolbox는 로봇팔에 관해서 시뮬레이션을 해볼 수 있는 
 오늘 시뮬레이션을 해볼 로봇은 2축 스카라 로봇 팔입니다.
 
 
-<사진 추가>
+<img src="image/2-axis-robot-arm.PNG" width="80%">
 이 로봇을 수학적으로 바라보기 위해서 좌표계를 도입하고 각 축의 각도와 링크를 문자로 나타내보겠습니다.
 
-<사진 추가>
+<img src="image/2-axis-robot-arm-dh-parameter.PNG" width="80%">
 이 로봇의 DH-Parameter를 구해보겠습니다.
 
 참고로 DH-Parameter란 로봇 팔을 하나의 표로 나타낼 수 있는 것을 말합니다.
@@ -49,12 +49,21 @@ Robotics toolbox는 로봇팔에 관해서 시뮬레이션을 해볼 수 있는 
 
 
 # Forward Kinematics
+<img src="image/forward_kinematics.JPG" width="80%">
+이 로봇의 순기구학을 다음과 같이 구할 수 있습니다.
+
 
 # Inverse Kinematics
 
+
+
 # GUI
 
+
+
 # Simulation
+
+
 
 
 
