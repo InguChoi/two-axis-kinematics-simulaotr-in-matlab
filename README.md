@@ -14,6 +14,13 @@ Robotics toolbox는 로봇팔에 관해서 시뮬레이션을 해볼 수 있는 
 
 <img src="download_capture.PNG" width="80%">
 
+노란색 형광펜 부분을 클릭하여 zip파일을 다운로드 해주세요.
+
+<img src="unpress_capture.PNG" width="80%">
+그리고 압축을 풀어서 startup_rvc 파일을 실행시켜주세요.
+
+<img src="execute_workspace_capture.PNG" width="80%">
+실행을 하면 작업공간에 변수들이 추가되어 있으면 성공입니다.
 
 
 
