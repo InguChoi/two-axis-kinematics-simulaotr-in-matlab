@@ -11,7 +11,8 @@ Robotics toolbox는 로봇팔에 관해서 시뮬레이션을 해볼 수 있는 
 우선 이 툴박스를 이용하려면 매틀랩의 버전의 "2018a이상"이어야 합니다.
 
 위 링크에 들어가서 zip파일을 다운로드 하겠습니다.
-<img src="download_capture.PNG" width="40%">
+
+<img src="download_capture.PNG" width="80%">
 
 
 
