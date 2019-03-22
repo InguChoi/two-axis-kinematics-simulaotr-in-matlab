@@ -22,11 +22,17 @@ Robotics toolbox는 로봇팔에 관해서 시뮬레이션을 해볼 수 있는 
 <img src="execute_workspace_capture.PNG" width="80%">
 실행을 하면 작업공간에 변수들이 추가되어 있으면 성공입니다.
 
+이제 Robotics Toolbox를 사용할 수 있습니다.
 
 
 # DH-Parameter
+오늘 시뮬레이션을 해볼 로봇은 2축 스카라 로봇 팔입니다.
+<img src="https://www.denso-wave.com/imageupd/21004/14110_contents4.jpg" width="80%">
 
-# 
+
+
+
+
 
 # 
 
