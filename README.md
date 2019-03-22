@@ -49,12 +49,18 @@ Robotics toolbox는 로봇팔에 관해서 시뮬레이션을 해볼 수 있는 
 
 
 # Forward Kinematics
-<img src="image/forward_kinematics.JPG" width="80%">
 이 로봇의 순기구학을 다음과 같이 구할 수 있습니다.
+<img src="image/forward_kinematics.JPG" width="80%">
+
 
 
 # Inverse Kinematics
-
+이 로봇의 역기구학을 다음과 같이 구할 수 있습니다.
+<img src="image/슬라이드1.JPG" width="80%">
+<img src="image/슬라이드2.JPG" width="80%">
+<img src="image/슬라이드3.JPG" width="80%">
+<img src="image/슬라이드4.JPG" width="80%">
+<img src="image/슬라이드5.JPG" width="80%">
 
 
 # GUI
